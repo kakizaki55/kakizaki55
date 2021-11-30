@@ -1,5 +1,7 @@
 ### Hi there thanks for coming to my repo! 
 
+about me: 
+
 Proficiencies/Learning 
 - HTML
 - CSS
@@ -8,6 +10,6 @@ Proficiencies/Learning
 - Supabase
 - SQL
 
-
+linkedIN https://www.linkedin.com/in/minoka-kakizaki/
 
 
