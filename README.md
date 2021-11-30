@@ -1,4 +1,4 @@
-### Hi there thanks for coming to my repo! 
+### Minoka's GitHub!
 
 about me: 
 
