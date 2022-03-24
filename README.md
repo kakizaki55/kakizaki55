@@ -13,6 +13,7 @@ I am a full-stack software engineer with a background in audio production and a 
 ### Testing
   React tesing library - msw - Jest - Qunit - supertest
 </p>
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minoka-kakizaki/)
 <p>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=kakizaki55&theme=monokai&show_icons=true&include_all_commits=true" />
 </p>
