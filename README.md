@@ -3,13 +3,16 @@
 
 I am a full-stack software engineer with a background in audio production and a passion for user-centric UX, who believes in inclusion, accessibility, and test-driven production. I excel in analyzing and adjusting work procedures for adaptable/efficient workflow, and my values center on a holistic technical approach to the digital world.
 
-Proficiencies/Learning 
+## Proficiencies
+
+<p text-align="center">
+
 ### languages
 - HTML
 - CSS
 - JavaScript
 - SQL
-<p text-align="center">
+
 ### libraries
 - React
 - Supabase
@@ -19,13 +22,14 @@ Proficiencies/Learning
 - Redux
 - Rest API
 - Express
-</p>
+
 ### Testing
 - React tesing library
 - msw
 - Jest
 - Qunit
 - supertest
+</p>
 
 
 linkedIN https://www.linkedin.com/in/minoka-kakizaki/
