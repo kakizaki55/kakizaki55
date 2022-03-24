@@ -5,8 +5,8 @@ I am a full-stack software engineer with a background in audio production and a 
 
 ## Proficiencies
 
-<p text-align="center"></p>
-
+<p text-align="center">
+</p>
 ### languages
 - HTML
 - CSS
