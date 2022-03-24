@@ -7,11 +7,7 @@ I am a full-stack software engineer with a background in audio production and a 
 
 <p text-align="center">
 
-### languages
-- HTML
-- CSS
-- JavaScript
-- SQL
+### languages - HTML - CSS - JavaScript - SQL
 
 ### libraries
 - React
