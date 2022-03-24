@@ -5,7 +5,7 @@ I am a full-stack software engineer with a background in audio production and a 
 
 ## Proficiencies
 
-<p text-align="center">
+<p text-align="center"></p>
 
 ### languages
 - HTML
@@ -22,7 +22,7 @@ I am a full-stack software engineer with a background in audio production and a 
 - Redux
 - Rest API
 - Express
-</p>
+
 ### Testing
 - React tesing library
 - msw
