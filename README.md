@@ -9,6 +9,7 @@ Proficiencies/Learning
 - CSS
 - JavaScript
 - SQL
+<p text-align="center">
 ### libraries
 - React
 - Supabase
@@ -18,6 +19,7 @@ Proficiencies/Learning
 - Redux
 - Rest API
 - Express
+</p>
 ### Testing
 - React tesing library
 - msw
