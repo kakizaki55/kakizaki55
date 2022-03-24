@@ -11,21 +11,10 @@ I am a full-stack software engineer with a background in audio production and a 
   HTML - CSS - JavaScript - SQL
 
 ### libraries
-- React
-- Supabase
-- React Router
-- Tailwind
-- Node.js
-- Redux
-- Rest API
-- Express
+  React - Supabase - React Router - Tailwind - Node.js - Redux - Rest API - Express
 
 ### Testing
-- React tesing library
-- msw
-- Jest
-- Qunit
-- supertest
+  React tesing library - msw - Jest - Qunit - supertest
 </p>
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=kakizaki55&theme=monokai&show_icons=true&include_all_commits=true" />
