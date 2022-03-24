@@ -4,10 +4,11 @@
 I am a full-stack software engineer with a background in audio production and a passion for user-centric UX, who believes in inclusion, accessibility, and test-driven production. I excel in analyzing and adjusting work procedures for adaptable/efficient workflow, and my values center on a holistic technical approach to the digital world.
 
 Proficiencies/Learning 
-*languages
+--languages
 - HTML
 - CSS
 - JavaScript
+--libraries
 - React
 - Supabase
 - SQL
