@@ -22,14 +22,14 @@ I am a full-stack software engineer with a background in audio production and a 
 - Redux
 - Rest API
 - Express
-
+</p>
 ### Testing
 - React tesing library
 - msw
 - Jest
 - Qunit
 - supertest
-</p>
+
 
 
 linkedIN https://www.linkedin.com/in/minoka-kakizaki/
