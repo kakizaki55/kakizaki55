@@ -6,7 +6,7 @@ I am a full-stack software engineer with a background in audio production and a 
 ## Proficiencies
 
 <p text-align="center">
-</p>
+
 ### languages
 - HTML
 - CSS
@@ -29,7 +29,7 @@ I am a full-stack software engineer with a background in audio production and a 
 - Jest
 - Qunit
 - supertest
-
+</p>
 
 
 linkedIN https://www.linkedin.com/in/minoka-kakizaki/
