@@ -1,7 +1,7 @@
 <img width="893" alt="minoka-header" src="https://user-images.githubusercontent.com/88120228/144121182-d9167320-cb53-42bc-bef8-0ff4e22175b2.png">
 ### Minoka's GitHub!
 
-Full-stack Software Engineer, part-time synthesizer enthusiast. Passionate about delivering captivating user experiences through innovative web development, I am a highly skilled front-end web developer with a meticulous approach to organization and curiosity for cutting-edge technologies. I am driven to create seamless pixel-perfect, responsive solutions that inspire and captivate audiences.
+I am a Full-stack Software Developer with a passion for music and a background in visual arts. I excel in creating exceptional user experiences by seamlessly blending eye-catching designs and optimal functionality. With a researched based approach to industry trends, I consistently deliver holistic and cutting-edge front-end applications. Combining my creative mindset with technical expertise, I strive to produce high-quality functional solutions that prioritize user-centric design.
 <p text-align="center">
 
 <p>
