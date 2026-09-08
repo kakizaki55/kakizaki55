@@ -22,9 +22,8 @@ React, Next.js, Tailwind CSS, Node.js, Hono, Express, JWT, PostgreSQL, SQL, REST
 #### 3d and audio
 Three.js, React Three fiber, Tone.js, Reactronica
 
-
 #### Dev Tools & Practices
-Git & GitHub, npm/pnpm, NGINX, Docker, Docker Compose, Valgrind, Thread Sanitizer, ESLint, WordPress
+Git & GitHub, npm/pnpm, NGINX, Docker, Docker Compose, Valgrind, Thread Sanitizer, ESLint, WordPress, Grafana
      
 
 Currently working on the advanced curriculum at [42 Firenze](https://42firenze.it/). 
