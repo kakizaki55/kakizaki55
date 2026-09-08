@@ -6,7 +6,6 @@ I love building meaningful things and learning how to craft effective solutions 
 
 ### About Me
 
-- 🌍 Japanese-American, living and working in Florence 
 - 💻 Passionate about clean, effective code
 - 🚀 Focused on building things that matter
 - 🌱 Always learning new tools and approaches to modern challenges
