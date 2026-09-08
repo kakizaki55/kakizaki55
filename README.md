@@ -14,17 +14,17 @@ I love building meaningful things and learning how to craft effective solutions 
 ### Tech Stack
 
 #### Programming Languages
-
-JavaScript/TypeScript, C , C++, HTML, CSS
+JavaScript/TypeScript, HTML, CSS, C, C++
 
 #### web tech
-React, Next.js, Tailwind CSS, Node.js , Hono, Express, JWT, PostgreSQL, SQL, REST APIs, Socket.io
+React, Next.js, Tailwind CSS, Node.js, Hono, Express, JWT, PostgreSQL, SQL, REST APIs, Socket.io
 
-#### 3d and audio, Three.js, React Three fiber, Tone.js, Reactronica
+#### 3d and audio
+Three.js, React Three fiber, Tone.js, Reactronica
 
 
 #### Dev Tools & Practices
-Git & GitHub, npm/pnpm, NGINX, Docker , Docker Compose, Valgrind, Thread Sanitizer, ESLint, WordPress
+Git & GitHub, npm/pnpm, NGINX, Docker, Docker Compose, Valgrind, Thread Sanitizer, ESLint, WordPress
      
 
 Currently working on the advanced curriculum at [42 Firenze](https://42firenze.it/). 
