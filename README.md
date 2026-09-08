@@ -1,6 +1,6 @@
-# Hi I'm [Minoka](https://www.linkedin.com/in/minoka-kakizaki/) 👋
+# Hi! 👋
 
-I'm a Software Engineer based in Florence, Italy 🇮🇹
+Name is [Minoka](https://www.linkedin.com/in/minoka-kakizaki/) I'm a Software Engineer based in Florence, Italy 🇮🇹
 
 I love building meaningful things and learning how to craft effective solutions for modern tech challenges.
 
@@ -13,7 +13,7 @@ I love building meaningful things and learning how to craft effective solutions 
 - 🌍 Fluent in English and Japanese, currently learning Italian
 
 ### Tech Stack
-
+ 
 
 Currently working on the advanced curriculum at [42 Firenze](https://42firenze.it/). 
 
