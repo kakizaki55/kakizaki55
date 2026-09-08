@@ -4,7 +4,7 @@ I'm a Software Engineer based in Florence, Italy 🇮🇹
 
 I love building meaningful things and learning how to craft effective solutions for modern tech challenges.
 
-## About Me
+### About Me
 
 - 🌍 Japanese-American, living and working in Florence 
 - 💻 Passionate about clean, effective code
@@ -12,10 +12,10 @@ I love building meaningful things and learning how to craft effective solutions 
 - 🌱 Always learning new tools and approaches to modern challenges
 - 
 
-## Tech Stack
+### Tech Stack
 
 
-## Currently Working On
+Currently working on the advanced curriculum at [42 Firenze](https://42firenze.it/). 
 
 - [Project or focus area]
 
