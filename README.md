@@ -1,6 +1,6 @@
-# Hi! 👋
+# Hi! Caio! こんにちは! 👋
 
-Name is [Minoka](https://www.linkedin.com/in/minoka-kakizaki/) I'm a Software Engineer based in Florence, Italy 🇮🇹
+Name is [Minoka](https://www.linkedin.com/in/minoka-kakizaki/) I'm a Software Engineer newly based in Florence, Italy 🇮🇹
 
 I love building meaningful things and learning how to craft effective solutions for modern tech challenges.
 
@@ -16,50 +16,18 @@ I love building meaningful things and learning how to craft effective solutions 
 
 #### Programming Languages
 
-- JavaScript/TypeScript
-- C 
-- C++
-- HTML
-- CSS
+JavaScript/TypeScript, C , C++, HTML, CSS
 
 #### web tech
+React, Next.js, Tailwind CSS, Node.js , Hono, Express, JWT, PostgreSQL, SQL, REST APIs, Socket.io
 
-- React
-- Next.js
-- Tailwind CSS
-- Node.js 
-- Hono
-- Express
-- JWT
-- PostgreSQL
-- SQL
-- Git & GitHub
-- npm/pnpm
-- REST APIs
-- Socket.io
-
-#### 3d and audio
-- Three.js
-- React Three fiber
-- Tone.js
-- Reactronica
+#### 3d and audio, Three.js, React Three fiber, Tone.js, Reactronica
 
 
 #### Dev Tools & Practices
-
-- Git & GitHub
-- npm/pnpm
-- REST APIs
-- NGINX
-- Docker 
-- Docker Compose
-- Valgrind
-- Thread Sanitizer
-- ESLint
-- WordPress
+Git & GitHub, npm/pnpm, NGINX, Docker , Docker Compose, Valgrind, Thread Sanitizer, ESLint, WordPress
      
 
 Currently working on the advanced curriculum at [42 Firenze](https://42firenze.it/). 
 
 Let's Connect!
-
