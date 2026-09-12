@@ -1,4 +1,4 @@
-# Hi! Caio! こんにちは! 👋
+# Hi! Ciao! こんにちは! 👋
 
 Name is [Minoka](https://www.linkedin.com/in/minoka-kakizaki/) I'm a Software Engineer newly based in Florence, Italy 🇮🇹
 
